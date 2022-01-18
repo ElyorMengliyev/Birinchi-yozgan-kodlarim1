@@ -1,0 +1,1 @@
+# Birinchi-yozgan-kodlarim1
