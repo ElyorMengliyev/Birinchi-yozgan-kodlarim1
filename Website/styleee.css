@@ -1,0 +1,60 @@
+.box{
+    width: 90%;
+    background-color: brown;
+    margin: 50px 50px;
+    border: 4px dotted #456780;
+}
+
+h1{
+    text-align: center;
+    text-decoration: overline;
+    font-family: sans-serif;
+    font-weight: 150;
+    font-style: italic;
+    text-transform: lowercase;
+    letter-spacing: 10px;
+    word-spacing: 35px;
+    color: coral;
+}
+
+p{
+    font-weight: bold;
+    text-transform: lowercase;
+}
+
+.btn{
+    margin: 50px 50px;
+    padding: 15px 25px;
+    background-color: lawngreen;
+    border-color: #441097;
+    outline: none;
+    color: #567439;
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.7s linear;
+    border-radius: 25px;
+}
+
+.btn:hover{
+    background-color: transparent;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    margin: 10px;
+    border-bottom: 3px dashed #000269;
+}
+
+input{
+display: block;
+width: 50%;
+padding: 17px 17px;
+margin: 20px 0;
+outline: none;
+border-radius: 35px;
+background-color: #401749;
+}
